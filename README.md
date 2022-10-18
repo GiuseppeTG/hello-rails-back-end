@@ -4,7 +4,7 @@
 
 > Create an API endpoint for 5 different random greetings
 
-
+[FRONT END REPO](https://github.com/GiuseppeTG/hello-react-front-end/pull/1)
 ## Built With
 
 - Ruby on rails
